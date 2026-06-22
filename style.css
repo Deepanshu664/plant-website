@@ -329,7 +329,7 @@ body{
     gap: 1px;
 }
 .bottom-footer h2{
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin-bottom: 12px;
     color:#484848;
     font-weight: 700;
@@ -337,7 +337,7 @@ body{
 .footer-links-row,
 .footer-cities-row,
 .footer-copy-row{
-    font-size: 0.95rem;
+    font-size: 0.82rem;
     line-height: 1.8;
 }
 .footer-links-row span{
